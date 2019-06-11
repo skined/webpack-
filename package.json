@@ -1,0 +1,47 @@
+{
+  "name": "webpack-lesson",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "a": "webpack  --config webpack.config.js",
+    "d": "webpack-dev-server  --config webpack.config.js"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^9.6.0",
+    "clean-webpack-plugin": "^3.0.0",
+    "copy-webpack-plugin": "^5.0.3",
+    "css-loader": "^2.1.1",
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-loader": "^2.1.2",
+    "eslint-plugin-import": "^2.17.3",
+    "expose-loader": "^0.7.5",
+    "file-loader": "^4.0.0",
+    "html-webpack-plugin": "^3.2.0",
+    "html-withimg-loader": "^0.1.16",
+    "less": "^3.9.0",
+    "less-loader": "^5.0.0",
+    "mini-css-extract-plugin": "^0.7.0",
+    "postcss-loader": "^3.0.0",
+    "postcss-preset-env": "^6.6.0",
+    "style-loader": "^0.23.1",
+    "url-loader": "^2.0.0",
+    "webpack": "^4.33.0",
+    "webpack-cli": "^3.3.2",
+    "webpack-dev-server": "^3.5.1"
+  },
+  "dependencies": {
+    "@babel/core": "^7.4.5",
+    "@babel/plugin-proposal-class-properties": "^7.4.4",
+    "@babel/plugin-transform-runtime": "^7.4.4",
+    "@babel/preset-env": "^7.4.5",
+    "@babel/runtime": "^7.4.5",
+    "@babel/runtime-corejs2": "^7.4.5",
+    "add-asset-html-cdn-webpack-plugin": "^1.0.0",
+    "babel-loader": "^8.0.6",
+    "core-js": "2",
+    "jquery": "^3.4.1",
+    "optimize-css-assets-webpack-plugin": "^5.0.1"
+  }
+}

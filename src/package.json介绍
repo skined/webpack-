@@ -1,0 +1,12 @@
+{
+    "name":包的名字
+    "version":版本号
+    "main":主入口
+    "scripts":脚本配置
+    "liscense":开源协议名称
+    "deDependdencies":开发依赖
+    "dependencies":依赖
+    ---我是分割线----
+    "author"作者
+    "repository":仓库地址
+}
