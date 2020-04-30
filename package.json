@@ -41,7 +41,7 @@
     "add-asset-html-cdn-webpack-plugin": "^1.0.0",
     "babel-loader": "^8.0.6",
     "core-js": "2",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "optimize-css-assets-webpack-plugin": "^5.0.1"
   }
 }
